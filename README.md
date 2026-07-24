@@ -315,4 +315,3 @@ If you encounter any issues or have questions:
 
 ⭐ **Star this repository if you found it helpful!**
 
-Built with 🖤 using Streamlit and Google Gemini AI
