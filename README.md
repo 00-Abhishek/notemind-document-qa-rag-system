@@ -14,9 +14,7 @@ Maintained by **Abhishek Pal** — dev.04.palabhishek@gmail.com
 
 Document RAG Assistant is a Streamlit web application that enables you to have intelligent conversations with your document content. Simply upload a PDF or text file, and the app will process the document to create a searchable knowledge base that you can query using natural language.
 
-## 🌐 Live Demo
 
-Try it out here: [Document RAG Assistant Live Demo](https://document-rag-system.streamlit.app)
 
 ## ✨ Features
 
