@@ -16,7 +16,7 @@ Document RAG Assistant is a Streamlit web application that enables you to have i
 
 # 🌐 Live Demo
 
-Try it out here: [Document RAG Assistant Live Demo](https://notemind-document-app-rag-system-qseja7buqdt4bk3ui5kaha.streamlit.app/)
+Try it out here: [Document RAG Assistant Live Demo]([https://notemind-document-app-rag-system-qseja7buqdt4bk3ui5kaha.streamlit.app/](https://00-abhishek-notemind-document-qa-rag-system-app-codexrel-qwfhxy.streamlit.app/))
 
 
 ## ✨ Features
